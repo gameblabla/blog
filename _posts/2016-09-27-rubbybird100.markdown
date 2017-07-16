@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Rubby Bird 100 - Official Release"
+date:   2016-09-27 22:00:00
+categories: homebrew android
+---
+<img src="/images//rubbybird100-scr1_0_o.png" />
+I am proud to announce the release of Rubby Bird 100, 
+<br />
+the sequel to Rubby Bird !</p>
+
+<p>You thought rubbing one bird was easy enough ?
+<br />
+Try with 100 birds instead !</p>
+
+<p>The darker they become, the closer they are to death.
+<br />
+If you fail to keep alive with a certain amount of birds, it’s game over !</p>
+
+<p>Rubby Bird 100 is available for Android (<a href="https://play.google.com/store/apps/details?id=com.gameblabla.rubbybird&amp;hl=en">Google Play Store</a>), Sailfish OS and browsers at <a href="http://www.newgrounds.com/portal/view/683859">Newgrounds</a> and <a href="http://www.kongregate.com/games/gameblabla/rubby-bird-100">Kongregate</a>.</p>

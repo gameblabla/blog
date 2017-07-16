@@ -1,0 +1,9 @@
+name: Gameblabla's Blog
+url: https://blog.gameblabla.nl
+description: Video games, Linux, sadness, desperation
+
+permalink: /:year/:month/:day/:title/
+paginate: 2
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
