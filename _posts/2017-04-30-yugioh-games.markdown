@@ -10,9 +10,10 @@ categories: review games
 
 <p>I won’t cover all the Yu-Gi-Oh games mind you, only some of them.
  <br />
-The first Yu-Gi-Oh game ever released was Yu-Gi-Oh! Monster Capsule: Breed and Battle for the PS1.</p>
+The first Yu-Gi-Oh game ever released was <b>Yu-Gi-Oh! Monster Capsule: Breed and Battle</b> for the PS1.</p>
 
-<p>I never played the game but it looks like a tactical rpg game. (with some virtual pet elements, according to some ppl)</p>
+<p>I never played the game but it looks like a tactical rpg game.<br>
+(with some virtual pet elements, according to some ppl)</p>
 
 <p>The odd thing is that the monsters look nothing like the real cards or even the anime.
 <br />
@@ -120,7 +121,8 @@ However, this game is perhaps the biggest travesty i have ever played.</p>
 
 <p>Simply put : there’s only one opponent, no animations, no story, NOTHING !<br />
 It’s more boring than the Gameboy games i swear !<br />
-<b>AVOID</b></p>
+<font color="red"><b>AVOID</b></font>
+</p>
 
 <p><b>Yu-Gi-Oh : Nightmare Troubadour</b>
 <img src="/images/nightmare_titlescreen.png" />
@@ -157,7 +159,8 @@ I heard that it’s a pretty good game but sadly, i haz no monez.
 <img src="/images/links.png" />
 <br />
 Duel Links is perhaps the biggest leap to Yu-Gi-Oh games since Nightmare Troubadour.<br />
-The online-aspect of the game, even though it’s quite minimal, makes it hard to go back to the old games.<br />
+The online-aspect of the game, even though it’s quite minimal, <br />
+makes it hard to go back to the old games.<br /><br />
 Compared to the original board game, some changes were made :</p>
 <li>You can only set 3 Magic/Trap cards and Monsters.</li>
 <li>Each character has a special ability that can alter the game.</li>
@@ -187,6 +190,5 @@ it’s a bit more involved like the Pegasus, Bakura or the KC Cup.</p>
 Some events mostly look like the same right now and once you reach a high stage, there’s not much to do.<br />
 But it’s mildly entertaining for most people.</p>
 
-<p>It has micro-transitions but it’s only to respawn enemies faster or buy more cards via the shop.<br />
-I would suggest you give it a try. <br />
+<p>It has micro-transitions but it’s only to respawn enemies faster or buy more cards via the shop. I would suggest you give it a try. <br />
 (unless you boycott Konami due to the Kojima fallout)</p>

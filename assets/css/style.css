@@ -33,7 +33,7 @@ table {
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.7;
 }
 
@@ -135,7 +135,7 @@ h3 {
 }
 
 #content {
-	width: 500px;
+	width: 560px;
 	margin: 0 auto;
 }
 

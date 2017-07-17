@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Important! Major changes"
+date:   2017-07-15 22:00:00
+categories: blog
+---
+Hello guys !<br>
+<br>
+A forum where i was very active, codewalr.us, is talking about shutting down after 2 important staff members quit codewalrus.<br>
+<br>
+Since its creation, i almost made sure to make interesting posts, <br>
+my T-Nspire CX ports as well as unrelated things.<br>
+<br>
+Unfortunely, it seems that Facebook & Twitters are winning.<br>
+Everyone is either talking about funny cats or making some pointless political shit.<br>
+Everyone is sitting in their corner, with no center of interest or interesting discussions.<br>
+It's either social media or suffer the consequences of real life.<br>
+<br>
+To further avoid being in stasis, some changes will have to be made.<br>
+<br>
+<b>DellardOS</b>
+<br>
+First of all, i will be forced to cancel DellardOS.<br>
+<br>
+Custom distributions are becoming less and less popular and sadly, systemd along with its sister projects<br>
+are taking over the league.<br>
+<br>
+Not all is bad though... <br>
+Devuan made some progress and has finally reached Stable 1.0.<br>
+<br>
+...But it's the exception rather than the rule.<br>
+<br>
+DellardOS failed to make any difference or even convince people they should use it on their old hardware.<br>
+Although it works, my other set goals were never met.<br>
+<br>
+From now on, DellardOS will be removed off of my server and will no longer be available for download.<br>
+<br>
+If you installed DellardOS,<br>
+you can easily install another DE like Xfce4 with this terminal command :<br>
+<br>
+<i>sudo apt-get install xfce4 slim<br>
+sudo apt-get remove xdm jwm dellardos-system<br>
+</i><br>
+Once installed properly, reboot with :<br>
+<i>sudo reboot</i><br>
+<br>
+If you can reinstall DellardOS though, do it because they might be some leftover files affecting the system.<br>
+<br>
+<b>Update my Website</b>
+
+Even one year after the website's existance, it is still missing some games.<br>
+The reason is simply because i made too many games/ports and i simply can't keep up.<br>
+
+This can be detrimental though, because of my games are erotic in nature<br>
+and few websites cover such games unfortunely..<br>
+
+On the downside, my main hard drive died.<br>
+I lost precious stuff that i might never be able to recover.<br>
+
+I really did not need to hear codewalrus's demise...<br>
+<br>
+<b>Conclusion</b>
+<br><br>
+That's all for now. What will come next is some reviews for Yu-Gi-Oh Games
+and my latest homebrew games. <br>
+
+Enjoy.
