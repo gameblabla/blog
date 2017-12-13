@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Update - Some Changes"
+date:   2017-11-30 22:30:00
+categories: blog
+---
+It's been a while since i have not done anything, even development-wise.
+<br>
+Sadly, i have some real-life issues so i could not do much.
+<br>
+When not developing, i mostly play Duel Links.
+<br>
+<br>
+Because the boards got haxxed by Hackers (already, thanks), 
+<br>
+i have decide to remove it.
+<br>
+I'll try to think of a better way to create a board but PhpBB just isn't it.
+<br>
+<br>
+I will also create a wiki for Duel Links, because let's face it :
+<br>
+Gamea's one sucks.
+<br><br>
+Link is here : <a href="https://duellinks.gameblabla.nl">https://duellinks.gameblabla.nl</a>
+<br><br>
+That's all for now, thank you.
+
