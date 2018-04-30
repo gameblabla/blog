@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Western Ideals : New (last) Pebble game"
+date:   2018-04-29 22:30:00
+categories: blog
+---
+Again, it's been a while.
+<br>
+I did several things since then :
+<br>
+I have released a port of Evil Australians for the Atari Falcon.
+<br>
+<br>
+Unfortunely i still have no idea if it works properly on real hardware....
+<br>
+But it works well on emulators.
+<br>
+<img href="https://gameblabla.nl/img/basalt_scr1.png">
+<br>
+The second project was one that took me a month (with plenty of breaks...).
+<br>
+It is my final Pebble game : Western Ideals. I had to scrap some plans
+<br>
+because Fitbit plans to shutdown servers next month... Oh well.
+<br><br>
+<a href="https://apps.getpebble.com/en_US/application/5ae67e5bf38588775f0006cc?section=watchapps">It's available here on the Pebble app store.</a>
+<br><br>
+Source code : <a href="https://github.com/gameblabla/western_ideals">https://github.com/gameblabla/western_ideals</a>
+
+That's all for now, thank you.
+
