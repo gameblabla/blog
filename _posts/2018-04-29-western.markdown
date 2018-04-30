@@ -15,7 +15,7 @@ Unfortunely i still have no idea if it works properly on real hardware....
 <br>
 But it works well on emulators.
 <br>
-<img href="/images/basalt_scr1.png">
+<img src="/images/basalt_scr1.png">
 <br>
 The second project was one that took me a month (with plenty of breaks...).
 <br>
